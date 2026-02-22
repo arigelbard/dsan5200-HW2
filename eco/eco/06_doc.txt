@@ -1,0 +1,44 @@
+Household 6
+===========
+
+For a general description of the data (e.g., structure of the files), see '01_doc.txt'.
+
+
+SMART METER DATA
+----------------
+
+Measurement period:
+27.06.12 to 31.01.13
+
+Coverage:
+No. days: 166, Coverage: 99.67%
+
+
+
+PLUG DATA
+---------
+
+Measurement period:
+27.06.12 to 31.01.13
+
+01: Lamp (no. days: 166, coverage: 67.2%)
+02: Laptop (no. days: 185, coverage: 97.3%) (*) 
+03: Router (no. days: 88, coverage: 96.73%) (**)
+04: Coffee machine (no. days: 179, coverage: 86.03%) 
+05: Entertainment (no. days: 181, coverage: 95.86%) (***)
+06: Fridge (no. days: 179, coverage: 95.78%)
+07: Kettle (no. days: 147, coverage: 82.54%) 
+
+
+Comments:
+
+(*) Includes printer
+(**) Includes two routers and a sheeva plug computer
+(***) Entertainment consists of TV and stereo
+
+
+
+OCCUPANCY DATA
+--------------
+
+No occupancy data available for this household.
